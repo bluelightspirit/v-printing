@@ -3,7 +3,7 @@
 ## How do I run the program?
 ### 1) Install V from [these instructions](https://github.com/vlang/v?tab=readme-ov-file#installing-v-from-source) if you do not have it already to use this.
 ### 2) Open the terminal
-### 3) Run `git clone https://github.com/bluelightspirit/v-printing` (which requires installing Git) or download the raw file from [here](https://github.com/bluelightspirit/v-printing/blob/main/testing.v)
+### 3) Run `git clone https://github.com/bluelightspirit/v-printing` (which requires installing Git) or download the raw files from [here](https://github.com/bluelightspirit/v-printing/blob/main/testing.v) and [here](https://github.com/bluelightspirit/v-printing/blob/main/hello.txt)
 ### 4) Navigate to the directory with testing.v in your terminal. [Here](https://www.geeksforgeeks.org/techtips/change-directories-in-command-prompt/) can assist on Windows. [Here](https://www.geeksforgeeks.org/linux-unix/file-system-navigation-commands-in-linux/) can assist on Linux. [Here](https://www.macworld.com/article/221277/command-line-navigating-files-folders-mac-terminal.html) can assist on macOS.
 ### 5) Run with: `v run testing.v` in the terminal
 
