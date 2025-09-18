@@ -1,4 +1,4 @@
-# This performs benchmarks of V's printing in different ways of printing 'Hello, world!' 100,000 times with new lines included. 
+# This performs benchmarks of V's printing in different ways of printing 'Hello, world!' 10,000 times with new lines included. 
 ## NOTE: This program has only been tested to run on Windows 10. It theoretically can support Windows 11, Linux, and macOS systems.
 ## How do I run the program?
 ### 1) Install V from [these instructions](https://github.com/vlang/v?tab=readme-ov-file#installing-v-from-source) if you do not have it already to use this.
