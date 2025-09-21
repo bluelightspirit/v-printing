@@ -200210,6 +200210,7 @@ fn main() {
     print('Average no string builder v3 print time: ${get_average(arr7)} ms\n')
     print('Average no string builder v3 raw print time: ${get_average(arr8)} ms\n')
     println('$arr')
+    println('$arr9')
     println('$arr2')
     println('$arr3')
     println('$arr4')
@@ -200217,7 +200218,6 @@ fn main() {
     println('$arr6')
     println('$arr7')
     println('$arr8')
-    println('$arr9')
     // print_char_array(10, `*`) // prints **********
     // optimized_print_array(10, `*`) // prints **********
     //print_stringbuilder_hello(10000)    
