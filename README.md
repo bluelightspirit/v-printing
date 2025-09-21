@@ -1,4 +1,4 @@
-# This performs benchmarks of V's printing in different ways of printing 'Hello, world!' 10,000 times (10 times each = 100,000 times per different data structure and algorithm) with new lines included. 
+# This performs benchmarks of V's printing in different ways of printing 'Hello, world!' 1,000,000 times (10 times each * 100,000 'Hello, world!\n's = 1,000,000 times per different data structure and algorithm) with new lines included. 
 ## NOTE: This program has only been tested to run on Windows 10. It theoretically can support Windows 11, Linux, and macOS systems.
 ## How do I run the program?
 ### 1) Install V from [these instructions](https://github.com/vlang/v?tab=readme-ov-file#installing-v-from-source) if you do not have it already to use this.
@@ -8,6 +8,6 @@
 ### 5) Run with: `v run testing.v` in the terminal
 
 ## Author's Results
-### These were [bluelightspirit](https://github.com/bluelightspirit)'s results on a Windows 10 system with an Intel 12600K processor, using Visual Studio Code's terminal:
+### These were [bluelightspirit](https://github.com/bluelightspirit)'s results on a Windows 10 system with an Intel 12600K processor, using the default Windows 10 terminal:
 
-<img width="844" height="530" alt="image" src="https://github.com/user-attachments/assets/189a3f26-17b2-457f-8d59-c45b386b80e8" />
+<img width="916" height="668" alt="image" src="https://github.com/user-attachments/assets/65b97b9e-0f48-484a-ada4-16036a62faa9" />
