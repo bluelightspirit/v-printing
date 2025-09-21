@@ -8,6 +8,7 @@
 ### 5) Run with: `v run testing.v` in the terminal
 
 ## Author's Results
-### These were [bluelightspirit](https://github.com/bluelightspirit)'s results on a Windows 10 system with an Intel 12600K processor and RTX 4060, using the default Windows 10 terminal:
+### These were [bluelightspirit](https://github.com/bluelightspirit)'s results on a Windows 10 system with an Intel 12600K processor and a NVIDIA RTX 4060, using the default Windows 10 terminal:
 
-<img width="946" height="591" alt="image" src="https://github.com/user-attachments/assets/f43e5632-b010-4a54-aed5-4ecbdd4a2bb9" />
+<img width="1026" height="560" alt="image" src="https://github.com/user-attachments/assets/4e5792f8-1b8a-467b-9e5b-380ef13502a7" />
+
